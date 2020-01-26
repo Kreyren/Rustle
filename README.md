@@ -1,4 +1,4 @@
 # Rustle
-A Rust IDE Written in Rust.
+Integrated development environment (IDE) written in rustlang
 
 # Coming Soon
